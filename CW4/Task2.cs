@@ -39,6 +39,7 @@ namespace CW4
             //}
 
             char letter = ' ';
+
             while (true)
             {
                 Console.WriteLine();
